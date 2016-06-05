@@ -1,3 +1,4 @@
+// test
 define(function(require, exports, module) {
     main.consumes = [
         "Plugin", "scm", "proc", "c9"
